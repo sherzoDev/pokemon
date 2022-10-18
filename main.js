@@ -1,7 +1,7 @@
 var elList = document.querySelector(".list");
 
 for (const pokemon of pokemons) {
-  
+
   var newPokeItem = document.createElement("li");
 
   var newPokeTitle = document.createElement("h3");
